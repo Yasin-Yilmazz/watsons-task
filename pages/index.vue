@@ -3,6 +3,11 @@
     <TopBar />
     <Header />
     <Hero />
+    <Featured />
+    <Newsletter />
+    <Banner />
+    <Categories />
+    <Footer />
   </div>
 </template>
 
