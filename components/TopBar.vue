@@ -31,7 +31,7 @@
         </svg>
         <span>Catalog</span>
       </li>
-      <li class="spot hide-sm">
+      <li class="info hide-sm">
         Watsons Beauty and Personal Care Awards Nominees!
       </li>
       <li>
